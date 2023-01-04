@@ -1,0 +1,27 @@
+nav ul{
+
+    display: flex;
+}
+
+
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+li:hover {
+    background-color: blanchedalmond;
+}
+
+
+
+
+h2{
+    color:orangered;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+b {
+    color: magenta;
+ font-size: 20px;
+}
